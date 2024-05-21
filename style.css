@@ -1,0 +1,38 @@
+#box1 {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    display: inline-block;
+}
+#box2{
+    width: 100px;
+    height: 150px;
+    background-color: yellow;
+    display: inline-block;
+}
+#box3 {
+    width: 100px;
+    height: 150px; 
+    background-color: 
+    rgba(5, 255, 0, 1);
+    display: inline-block;
+}
+#box4 {
+    width: 100px;
+    height: 150px; 
+    background-color: blue;
+    display: inline-block;
+}
+#box5 {
+    width: 100px;
+    height: 150px;
+    background-color: rgba(250, 0, 255, 1);
+    display: inline-block;
+
+}
+#box6 {
+    width: 100px;
+    height: 150px;
+    background-color:rgba(0, 255, 240, 1)  ;
+    display: inline-block;
+}
